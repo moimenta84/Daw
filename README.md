@@ -57,3 +57,12 @@ El objetivo es aprender y aplicar los comandos básicos y el flujo de trabajo ha
 
 ## Observaciones
 Repositorio creado con fines **formativos y académicos**.
+
+## Compañeros de clase
+
+| NOMBRE              | GITHUB                  |
+|---------------------|---------------------------------|
+| Santi               | https://github.com/santigrafic  |
+| Sheila              | https://github.com/sheila-codes |
+| Jose                | https://github.com/Josher21     |
+ 
